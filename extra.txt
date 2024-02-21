@@ -1,0 +1,62 @@
+Patient:
+full_name
+b_year
+observation
+observated_at
+conclusion
+radiologist_name
+head_doctor_name
+created_at
+updated_at
+isValidated
+isApproved
+
+
+
+Techs:
+together.ai - for model fine tuning
+reportlab - for generating PDFs
+MongoDB - for storing data
+Streamlit - for the web app
+Fine-tuned model - Llama2 chat 70B
+
+
+
+
+# template = f"""
+# Scanning Technique: {scanning_technique}
+# Pathological Intensity Foci:
+#     Number: {foci_number}
+#     Shape: {foci_shape}
+#     Location: {foci_location}
+#     Signal Characteristics: {foci_signal_characteristics}
+#     Diameter: {foci_diameter} mm
+# Basal Ganglia:
+#     Location: {basal_ganglia_location}
+#     Symmetry: {basal_ganglia_symmetry}
+#     Contour: {basal_ganglia_contour}
+#     Dimensions: {basal_ganglia_dimensions}
+#     MR Signal: {basal_ganglia_signal}
+# Brain Grooves and Ventricles:
+#     Lateral Ventricles Width: Right: {lateral_ventricles_width_right} mm, Left: {lateral_ventricles_width_left} mm
+#     Third Ventricle Width: {third_ventricle_width} mm
+#     Sylvian Aqueduct: {sylvian_aqueduct_condition}
+#     Fourth Ventricle: {fourth_ventricle_condition}
+# Brain Structures:
+#     Corpus Callosum: {corpus_callosum_condition}
+#     Brain Stem: {brain_stem_condition}
+#     Cerebellum: {cerebellum_condition}
+#     Craniovertebral Junction: {craniovertebral_junction_condition}
+#     Pituitary Gland: {pituitary_gland_condition}
+# Optic Nerves and Orbital Structures:
+#     Orbital Cones Shape: {orbital_cones_shape}
+#     Eyeballs Shape and Size: {eyeballs_shape_size}
+#     Optic Nerves Diameter: {optic_nerves_diameter}
+#     Extraocular Muscles: {extraocular_muscles_condition}
+#     Retrobulbar Fatty Tissue: {retrobulbar_fatty_tissue_condition}
+# Paranasal Sinuses:
+#     Cysts Presence: {sinuses_cysts_presence}
+#     Cysts Size: {sinuses_cysts_size} mm
+#     Sinuses Pneumatization: {sinuses_pneumatization}
+# Additional Observations: {additional_observations}
+# """

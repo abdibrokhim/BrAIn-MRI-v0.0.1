@@ -1,0 +1,35 @@
+###conclusion
+MRI signs of vascular encephalopathy with the presence of multiple small ischemic foci and atrophy of the frontotemporal areas on both sides.
+
+
+###template
+Here is the information from the observations to update the template:
+- Scanning Technique: T1 FSE-sagittal, T2 FLAIR, T2 FSE-axial, T2 FSE-coronal
+- Basal Ganglia:
+  - Location: Usually located
+  - Symmetry: Symmetrical
+  - Contour: Clear, even contours
+  - Dimensions: Not changed
+  - MR Signal: Not changed
+- Brain Grooves and Ventricles:
+  - Lateral Ventricles Width: Right: 7 mm, Left: 9 mm
+  - Third Ventricle Width: 4 mm
+  - Sylvian Aqueduct: Not changed
+  - Fourth Ventricle: Tent-shaped and not dilated
+- Brain Structures:
+  - Corpus Callosum: Normal shape and size
+  - Brain Stem: Without features
+  - Cerebellum: Normal shape
+  - Craniovertebral Junction: Unchanged
+  - Pituitary Gland: Normal shape, height 4 mm in sagittal projection
+- Optic Nerves and Orbital Structures:
+  - Orbital Cones Shape: Unchanged
+  - Eyeballs Shape and Size: Spherical and normal size
+  - Optic Nerves Diameter: Preserved
+  - Extraocular Muscles: Normal size, without pathological signals
+  - Retrobulbar Fatty Tissue: Without pathological signals
+- Paranasal Sinuses:
+  - Cysts Presence: Not mentioned
+  - Cysts Size: Not mentioned
+  - Sinuses Pneumatization: Usually pneumatized
+- Additional Observations: None mentioned
