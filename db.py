@@ -4,7 +4,7 @@ from datetime import datetime
 from bson import ObjectId
 
 
-uri = "mongodb+srv://abdibrokhim:i42uybEpICWl8Rax@brain-mri-data-v1.2qisc99.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://<username>:<password>@brain-mri-data-v1.2qisc99.mongodb.net/?retryWrites=true&w=majority"
 client = MongoClient(uri, server_api=ServerApi('1'))
 db = client['BrAInMRI']
 collection = db['patients-records']

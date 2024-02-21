@@ -18,7 +18,7 @@ def generate_response(prompt):
         "repetitive_penalty": 1,
         "update_at": "2024-02-18T05:36:35.440Z"
     }, headers={
-        "Authorization": "Bearer b229c0fa1e88b16cd9ac2110faf43da5c1c5c1297a9024a1855fd5e57aa65229",
+        "Authorization": "Bearer ...",
     })
 
     print("response:", res.json())
